@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "בודק הודעות חשודות",
+  "short_name": "ScamChecker",
+  "description": "בדיקה מקומית של סימני אזהרה בהודעות חשודות.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f8fa",
+  "theme_color": "#0b5864",
+  "icons": [
+    {
+      "src": "/icons/scamchecker-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/scamchecker-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
